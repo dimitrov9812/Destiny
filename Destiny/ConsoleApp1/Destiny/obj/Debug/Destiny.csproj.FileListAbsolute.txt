@@ -1,0 +1,11 @@
+C:\Users\Aspire VX\source\repos\Destiny\ConsoleApp1\ConsoleApp1\bin\Debug\pacman.wav
+C:\Users\Aspire VX\source\repos\Destiny\ConsoleApp1\ConsoleApp1\bin\Debug\Spiderman.wav
+C:\Users\Aspire VX\source\repos\Destiny\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Aspire VX\source\repos\Destiny\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Aspire VX\source\repos\Destiny\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Aspire VX\source\repos\Destiny\ConsoleApp1\ConsoleApp1\obj\Debug\Destiny.csprojAssemblyReference.cache
+C:\Users\Aspire VX\source\repos\Destiny\ConsoleApp1\ConsoleApp1\obj\Debug\Destiny.csproj.CoreCompileInputs.cache
+C:\Users\Aspire VX\source\repos\Destiny\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Aspire VX\source\repos\Destiny\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\Aspire VX\source\repos\Destiny\ConsoleApp1\ConsoleApp1\bin\Debug\OpenWeatherMap.dll
+C:\Users\Aspire VX\source\repos\Destiny\ConsoleApp1\ConsoleApp1\obj\Debug\Destiny.csproj.CopyComplete
